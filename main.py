@@ -47,21 +47,20 @@ print('''
                             Snow Calculator - 0.0.1
 ''')
 
-# Program make a simple calculator
 
-# This function adds two numbers
+# Add the two numbers
 def add(x, y):
     return x + y
 
-# This function subtracts two numbers
+# Subtract the two numbers
 def subtract(x, y):
     return x - y
 
-# This function multiplies two numbers
+# Multiply the two numbers
 def multiply(x, y):
     return x * y
 
-# This function divides two numbers
+# Divide the two numbers
 def divide(x, y):
     return x / y
 
@@ -75,7 +74,7 @@ print('''Select operation:
 
 
 while True:
-    # Take input from the user
+    # Takes input from the user
     choice = input("Enter choice(1/2/3/4): ")
 
     # Check if choice is one of the four options
