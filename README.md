@@ -6,4 +6,4 @@ Simply run the program to do your math homework :)
 
 TODO:
 - GUI (DONE)
-- More advanced calculator rewrite
+- More advanced calculator (Multiply, Divide, Subtract...)
